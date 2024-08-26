@@ -1,4 +1,4 @@
-# HW2 Polynomial(circular linked list)
+# HW3 Polynomial(circular linked list)
 
 ## 1.解題說明
 
